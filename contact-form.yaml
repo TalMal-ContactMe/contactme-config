@@ -1,0 +1,9 @@
+server.port: 8082
+spring.config.import: eureka_client.yaml, messagequeue_client.yaml,logger-client.yaml
+services:
+  endpoints:
+    create: lb://message-sender/message/create
+    send: lb://message-sender/message/send
+    open: lb://message-sender/message/open
+  query_key.chat_id: chatId
+  allowed_origins: http://192.168.99.100:4200,http://localhost:4200
