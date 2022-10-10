@@ -6,4 +6,5 @@ services:
     send: lb://message-sender/message/send
     open: lb://message-sender/message/open
   query_key.chat_id: chatId
-  allowed_origins: http://192.168.99.100:4200,http://localhost:4200,http://angularFrontend:4200,lb://angularFrontend:4200
+  allowed_origins: http://http://host.docker.internal/:4200
+  #,http://localhost:4200,http://angularFrontend:4200,lb://angularFrontend:4200
