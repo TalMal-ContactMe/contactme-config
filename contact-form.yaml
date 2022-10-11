@@ -1,5 +1,5 @@
 server.port: 8082
-spring.config.import: eureka_client.yaml, messagequeue_client.yaml,logger-client.yaml
+spring.config.import: eureka_client.yaml,messagequeue_client.yaml,logger-client.yaml
 services:
   endpoints:
     create: lb://message-sender/message/create
@@ -7,4 +7,3 @@ services:
     open: lb://message-sender/message/open
   query_key.chat_id: chatId
   allowed_origins: http://host.docker.internal/:4200
-  #,http://localhost:4200,http://angularFrontend:4200,lb://angularFrontend:4200
