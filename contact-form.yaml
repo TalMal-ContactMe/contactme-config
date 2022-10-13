@@ -6,4 +6,4 @@ services:
     send: lb://message-sender/message/send
     open: lb://message-sender/message/open
   query_key.chat_id: chatId
-  allowed_origins: http://host.docker.internal/:4200
+  allowed_origins: http://host.docker.internal:4200
