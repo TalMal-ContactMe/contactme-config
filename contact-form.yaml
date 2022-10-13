@@ -7,3 +7,4 @@ services:
     open: lb://message-sender/message/open
   query_key.chat_id: chatId
   allowed_origins: http://host.docker.internal:4200
+  frontend_origin: http://host.docker.internal:4200
