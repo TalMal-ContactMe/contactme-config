@@ -4,7 +4,7 @@ Contains the docker-compose file to run my Contact-me application.
 
 To run Contact-me application, you need to have:  
 1 - windows10 or newer.  
-2 - docker-desktop installed and running - https://docs.docker.com/desktop/install/windows-install/,  
+2 - docker-desktop installed and running - https://docs.docker.com/desktop/install/windows-install/  
 2.1 - when not using docker-desktop, make sure your hosts file contains below lines to make connection with the backend:  
 [put-your-docker-machine-ip-here] host.docker.internal  
 [put-your-docker-machine-ip-here] gateway.docker.internal  
