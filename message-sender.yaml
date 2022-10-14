@@ -7,5 +7,5 @@ slack:
   channelRobotName: Robot
   botToken: xoxb-3429373528213-3456120783472-tdAY5Aj2EtLLvelId9f5OupP
   socketToken: xapp-1-A03C9NB67FH-3722229969958-c2af12b6e3304fe51d5658419557b7e641909d1563712dae41cdab95cb7a5da4
-  ownerUser: U03CSHQP35J
-  botUser: U03DE3JP1DW
+#  ownerUser: U03CSHQP35J
+#  botUser: U03DE3JP1DW
