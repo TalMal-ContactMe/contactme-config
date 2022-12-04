@@ -2,13 +2,3 @@ spring.rabbitmq:
   host: rabbitmq
   username: user
   password: pass
-messageQueue:
-  exchange: chatExchange
-  queues:
-    toSlack:
-      newMessage: to.slack.new.message
-      startChat: to.slack.start.chat
-      loadMessages: to.slack.load.messages
-    fromSlack:
-      newMessage: from.slack.new.message
-  
