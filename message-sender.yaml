@@ -13,5 +13,4 @@ services:
   cache:
     isActive: true
     maxMemory: 10
-logging.level.root: DEBUG
-#logging.level.org.springframework.web: DEBUG
+logging.level.talmal.contact: DEBUG
