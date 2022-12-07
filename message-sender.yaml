@@ -13,5 +13,5 @@ services:
   cache:
     isActive: true
     maxMemory: 10
-logging.level.talmal.contact: DEBUG
+#logging.level.talmal.contact: DEBUG
 logging.level.root: INFO
