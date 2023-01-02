@@ -6,6 +6,6 @@ services:
     send: lb://message-sender/message/send
     open: lb://message-sender/message/open
   query_key.chat_id: chatId
-  allowed_origins: http://localhost:80,http://localhost #http://host.docker.internal:4200, 
+  allowed_origins: http://localhost:80 #http://host.docker.internal:4200, 
   circuitBreaker.timeoutDuration: 5000
 spring.rabbitmq.template.reply-timeout: 5000

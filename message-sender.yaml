@@ -1,7 +1,7 @@
 server.port: 8081
 spring.config.import: eureka_client.yaml, messagequeue_client.yaml,logger-client.yaml
 slack:
-  channelId: C03CHJ2HRC6
+  channelId: C04H5SH9RA7
   channelName: contact-me
   channelOwnerName: Tal
   channelRobotName: Robot
