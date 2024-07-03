@@ -5,7 +5,7 @@ slack:
   channelName: contact-me
   channelOwnerName: Tal
   channelRobotName: Robot
-  botToken: xoxb-3429373528213-3456120783472-KZVJNdww12T8q3jUqUmlprgQ
+  gogo: eG94Yi0zNDI5MzczNTI4MjEzLTM0NTYxMjA3ODM0NzItS1pWSk5kd3cxMlQ4cTNqVXFVbWxwcmdR
   socketToken: xapp-1-A03C9NB67FH-3722229969958-c2af12b6e3304fe51d5658419557b7e641909d1563712dae41cdab95cb7a5da4
 #  ownerUser: U03CSHQP35J # maintained in code (SlackService)
 #  botUser: U03DE3JP1DW # maintained in code (SlackService)
