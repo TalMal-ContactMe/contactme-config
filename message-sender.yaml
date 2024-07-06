@@ -6,6 +6,11 @@ slack:
   channelOwnerName: Tal
   channelRobotName: Robot
 
+  gogo1: eG94Yi0zNDI5MzczNTI4MjEzLT
+  gogo2: M0NTYxMjA3ODM0NzItbVhuNkwxRE9EYnU4UzlKMFR5OGhBbkdE
+  soso1: eGFwcC0xLUEwM0M5TkI2N0ZILTczODA3ND
+  soso2: MxNDg2MTMtNGIwZTU0NGMzNzJhMWU0MGE5ZDA2MjY0YThjMmFiYzA1MDM2MGMxM2FlOWYzMDBlOTg1OWU5NWU1OTQ5MmI1Yg==
+  
 #  ownerUser: U03CSHQP35J # maintained in code (SlackService)
 #  botUser: U03DE3JP1DW # maintained in code (SlackService)
 services:
